@@ -1,1 +1,1 @@
-Hackthebox machine walkthrough
+Hackthebox machine writeups
